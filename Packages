@@ -129,3 +129,20 @@ Description: iOS 14-17 自定义VPN图标
 Author: iosdump
 Name: CustomVpnIcon
 
+Package: com.m4fn3.k2gecamen
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: mafu
+Installed-Size: 8928
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.1.0_iphoneos-arm64.deb
+Size: 3031852
+MD5sum: fa797612bf7238fc4f3be33077ff8315
+SHA1: 1207eeb7e1fa025b20d76368acae5327e147ad7c
+SHA256: 14707f6d663bfadbaf83cf7c22f52eff077f70e7b336dc58e69b423535c6bb44
+Section: Tweaks
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+Name: K2gecamen
+
