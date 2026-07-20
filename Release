@@ -1,0 +1,8 @@
+Origin: 麻辣香锅源
+Label: 麻辣香锅源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 麻辣香锅源
