@@ -47,3 +47,19 @@ Description: 微信助手-Rootless版
 Author: Mao
 Name: 微信助手-Rootless
 
+Package: com.iosdump.customvpnicon
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.iosdump.customvpnicon_0.1_iphoneos-arm64.deb
+Size: 38870
+MD5sum: 94781918194073027c62956f36b33685
+SHA1: c8324db9507dd6a621e2fd038c8a56276583aea3
+SHA256: 037cd7191c3a6b517d0f01e8e25c776c4403c36a67a3dd6af000a3fcd40056f6
+Section: Tweaks
+Description: iOS 14-17 自定义VPN图标
+Author: iosdump
+Name: CustomVpnIcon
+
