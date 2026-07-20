@@ -47,6 +47,24 @@ Description: 微信助手-Rootless版
 Author: Mao
 Name: 微信助手-Rootless
 
+Package: com.Axs.ccuiplayer
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.ccuiplayer_1.0.7_iphoneos-arm64.deb
+Size: 45924
+MD5sum: e6880d09318892c4ac49ecbe3b0ffbe3
+SHA1: e69233ddf5f1779559d9f03fd868e3f1f8017b6c
+SHA256: a6bfdf726e8f7b3225a0ade94dccc5241975f149c8eade0e6ea092f6e80dd98d
+Section: 控制中心
+Description: 控制中心音频窗口背景插件
+Author: 🐶
+Icon: https://axs66.github.io/pro/icon/ccuiplayer.png
+Name: CCUIPlayer 控制中心音频背景
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccuiplayer/js.json
+
 Package: com.be-huge.insulation
 Version: 0.1.37
 Architecture: iphoneos-arm64
@@ -145,4 +163,21 @@ Description: Capture moments with photos, videos, and audio in the background wi
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
 Name: K2gecamen
+
+Package: com.wkk.nowaveform
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.nowaveform_1.0.2_iphoneos-arm64.deb
+Size: 3512
+MD5sum: 60d617fce30475b38240499c073d048e
+SHA1: 08ba4f3d8403265159b4610dab404d4020470bce
+SHA256: 0480a91a27dee081f3d932246d228a743b24a714a8529bb1f9c5f2c6450f8d28
+Section: Tweaks
+Description: 隐藏灵动岛上播放音乐时的波形。
+Author: Nathan Senter
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: NoWaveForm
 
