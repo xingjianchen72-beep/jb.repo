@@ -1,3 +1,19 @@
+Package: com.25mao.MiYou
+Version: 3.9-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou_3.9-5_iphoneos-arm.deb
+Size: 6819616
+MD5sum: 9df33c5fad4a457377ac7c368c908269
+SHA1: 235dd332e2b9ee66d0a3fd08fafe3945166c87d6
+SHA256: 17ee882775a6af80dffbef53512285654853e36994f596be835dc876116fc370
+Section: Tweaks
+Priority: optional
+Description: 微信助手
+Author: Mao
+Name: 微信助手
+
 Package: com.25mao.miyou.rootless
 Version: 3.9-5
 Architecture: iphoneos-arm64
