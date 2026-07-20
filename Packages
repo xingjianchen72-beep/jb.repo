@@ -63,6 +63,23 @@ Description: 解除温控，一切从简即可。支持命令行切换模式：i
 Author: be-huge & doimty
 Name: insulation
 
+Package: com.binglan.kongzhidiy
+Version: 2.3.6-end
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 7980
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.binglan.kongzhidiy_2.3.6-end_iphoneos-arm64.deb
+Size: 3734192
+MD5sum: 7df54e357147534e75439a42ae446fe4
+SHA1: 68ab9734753208fbff0c641db873a4596765359d
+SHA256: 3d1d1ceade00603194a4f2a4899936edd9b4206b760f731705725063facb0a77
+Section: Tweaks
+Description: 控制中心中心美化？
+Author: binglan
+Icon: https://i.imgs.ovh/2026/06/10/dfb8c206be141bb3c7d070b29d0d9d56.jpg
+Name: CCPrimeX
+
 Package: com.charlieleung.trollopenjb
 Version: 1.3.7
 Architecture: iphoneos-arm64
