@@ -1,8 +1,0 @@
-debs/
-├─ beautify/      # 美化插件
-├─ gesture/       # 手势工具
-├─ system-tool/   # 系统工具
-├─ privacy/        # 隐私安全
-├─ media/          # 影音增强
-├─ app-patch/      # APP专项补丁
-└─ fix-deps/       # 依赖&修复插件
