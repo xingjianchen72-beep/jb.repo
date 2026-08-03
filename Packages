@@ -120,6 +120,22 @@ Description: 解除温控，一切从简即可。支持命令行切换模式：i
 Author: be-huge & doimty
 Name: insulation
 
+Package: com.binglan.dynamicfx
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 772
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb
+Size: 116112
+MD5sum: 806cf322829643d3ad2db46ca08bb9a3
+SHA1: 9508cf74149824a7e0c81f657b069cae40740c3e
+SHA256: ee5b5d5520e62df05e898a3438539998342b57450d55ad1976167097ff7ce0a1
+Section: Tweaks
+Description: 灵动岛背景？
+Author: 冰蓝
+Name: DynamicFX
+
 Package: com.binglan.kongzhidiy
 Version: 2.3.6-end
 Architecture: iphoneos-arm64
