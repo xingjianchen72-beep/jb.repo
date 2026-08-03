@@ -1,3 +1,22 @@
+Package: cn.zqbb.hello.keyboard.ai
+Version: 5.5.5-1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 7444
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.zqbb.hello.keyboard.ai
+Filename: ./debs/cn.zqbb.hello.keyboard.ai_5.5.5-1_iphoneos-arm64.deb
+Size: 1985742
+MD5sum: 5c3eba0a0098a8b8b5ba664653846f04
+SHA1: 902daa3edeba3374fa8b12e106b2fd03d37533e9
+SHA256: 050954f1b2ec8f9f44157cbc01d98f854c4fd9a21609d5cf28705e94eb6dc84e
+Section: zqbb Tweaks
+Description: Quickly activate AI mode.
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
+Name: Hello 键盘侠 (rootless)
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
+
 Package: com.25mao.MiYou
 Version: 3.9-5
 Architecture: iphoneos-arm
